@@ -2,7 +2,6 @@
 
 - 本儲存庫包含：
 	- 簡報檔（20190324_MakeNTUxST.pdf）
-	- 範例程式TrueSTUDIO專案（置於HandsOn目錄下）
 	- 參考文件（置於Document目錄下）
 
 - 請下載以下軟體安裝檔：
